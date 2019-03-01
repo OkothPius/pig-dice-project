@@ -1,9 +1,7 @@
 .jumbotron {
   background-image: url(/home/orukopius/Pictures/dice2.jpeg);
   background-repeat: no-repeat;
-  background-position: center;
   position: relative;
-  height: 50%;
 }
 
 h1 {
@@ -14,4 +12,11 @@ h1 {
 .form-group {
   color: blue;
   font-size: 26px;
+}
+
+p {
+  color: #ff6d00;
+}
+h2 {
+  color: #e65100;
 }

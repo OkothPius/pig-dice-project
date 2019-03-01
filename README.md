@@ -7,8 +7,10 @@
 ## Description
 
 _This web application allows two players to play a game of Pig Dice._
+_LIVE LINK:_https://okothpius.github.io/pig-dice-project/.
 
 ## Behavior Driven Development(BDD)
+
 | Behavior        | Input           | Outcome  |
 | ------------- |:-------------:| -----:|
 | Player 1 inputs name and Player 2 inputs name, and clicks start button | Player 1: Olivia / Player 2: Matt / Click START | Goes to game console |

@@ -1,7 +1,7 @@
 .jumbotron {
-  background-image: url(/home/orukopius/Pictures/dice2.jpeg);
+  background-image: url(https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
   background-repeat: no-repeat;
-  position: relative;
+  background-size: cover;
 }
 
 h1 {

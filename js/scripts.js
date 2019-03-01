@@ -1,9 +1,9 @@
 //business logic
-var player1="";
-var player2="";
+var player1 = "";
+var player2 = "";
 
-var throwdice = function () {
-  return Math.floor(6*Math.random())+1;
+var throwdice = function() {
+  return Math.floor(6 * Math.random()) + 1;
 }
 
 function Player(turn) {
@@ -17,16 +17,16 @@ function Player(turn) {
 // checking for 1
 Player.prototype.rollone = function() {
   if (this.roll === 1) {
-  this.tempscore = 0;
-  alert("Sorry " + this.playerName + ", you rolled a 1! Your turn is over!")
-  // this.changeturn();
+    this.tempscore = 0;
+    alert("Sorry " + this.playerName + ", you rolled a 1! Your turn is over!")
+    // this.changeturn();
   } else {
-  this.tempscore += this.roll;
+    this.tempscore += this.roll;
   }
 }
 
 // hold
-Player.prototype.hold = function () {
+Player.prototype.hold = function() {
   this.totalscore += this.tempscore;
   this.tempscore = 0;
   // this.changeturn();
@@ -42,21 +42,21 @@ Player.prototype.hold = function () {
 //   }
 // }
 // check for 100
-Player.prototype.winnerCheck = function () {
+Player.prototype.winnerCheck = function() {
   if (this.totalscore >= 100) {
     alert(this.playerName + " You are the winner!");
   }
 }
 
-Player.prototype.newGame = function () {
+Player.prototype.newGame = function() {
   //debugger;
   this.roll = 0;
   this.tempscore = 0;
   this.totalscore = 0;
-  this.playerName ="";
+  this.playerName = "";
 }
 
-var clearValues = function(){
-  $(".player1Name").val("");
-  $(".player2Name").val("");
+var clearValues = function() {
+  $(".player1").val("");
+  $(".player2").val("");
 }

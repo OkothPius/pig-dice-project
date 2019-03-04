@@ -7,7 +7,7 @@
 ## Description
 
 _This web application allows two players to play a game of Pig Dice._
-_LIVE LINK:_https://okothpius.github.io/pig-dice-project/.
+_LIVE LINK: _https://okothpius.github.io/pig-dice-project/._
 
 ## Behavior Driven Development(BDD)
 
@@ -31,7 +31,7 @@ _LIVE LINK:_https://okothpius.github.io/pig-dice-project/.
 
 ## Bugs
 
-* _No bugs
+* _No bugs_
 
 
 ## Technologies Used
@@ -44,9 +44,9 @@ _LIVE LINK:_https://okothpius.github.io/pig-dice-project/.
 
 ## Contact Information
 
-* _FACEBOOK:_orukopius
-* _IG:__oruko_
-* _TEL:_0719-121-890
+* _FACEBOOK: _orukopius_
+* _IG: __oruko_
+* _TEL: _0719-121-890
 
 ### License
 

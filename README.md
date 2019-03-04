@@ -1,4 +1,4 @@
-# _Pig-Dice-Project_
+# _pig-dice-project_
 
 #### By _Okoth Pius Ogutu_
 
@@ -11,7 +11,7 @@ _LIVE LINK: _https://okothpius.github.io/pig-dice-project/._
 
 ## Behavior Driven Development(BDD)
 
-| Behavior        | Input           | Outcome  |
+| Behavior        | Input           | Output  |
 | ------------- |:-------------:| -----:|
 | Player 1 inputs name and Player 2 inputs name, and clicks start button | Player 1: Oruko / Player 2: Pius / Click START | Goes to back page |
 | Player 1 clicks ROLL button | Click ROLL button | Dice rolls and number is generated
@@ -46,10 +46,10 @@ _LIVE LINK: _https://okothpius.github.io/pig-dice-project/._
 
 * _FACEBOOK: _orukopius_
 * _IG: __oruko_
-* _TEL: _0719-121-890
+* _TEL: _0719-121-890_
 
 ### License
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2019 **_Okoth Pius Ogutu_**
+Copyright (c) 2019 **_Okoth Pius Ogutu,Inc._**

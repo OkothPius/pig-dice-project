@@ -24,9 +24,10 @@ _LIVE LINK: _https://okothpius.github.io/pig-dice-project/._
 ## Setup/Installation Requirements
 
 * _Open your GITHUB account_
-* _Clone this repository_
+* _Fork the repo_
+* _Clone this repo in terminal or prompt_
 * _Open a HTML file_
-* _Open any web browser_
+* _Open it in any web browser_
 
 
 ## Bugs
@@ -50,6 +51,6 @@ _LIVE LINK: _https://okothpius.github.io/pig-dice-project/._
 
 ### License
 
-*This software is licensed under the MIT license.*
+*_MIT license._*
 
 Copyright (c) 2019 **_Okoth Pius Ogutu,Inc._**
